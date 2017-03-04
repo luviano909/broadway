@@ -10,9 +10,11 @@ body {
     color: white;
 }
 h4 {
+    text-decoration: underline;
     font-size: 18px;
     font-weight: bold;
     color: white;
+    cursor: auto;
 }
 .our_process {
     background-color: white;
